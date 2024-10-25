@@ -2,21 +2,21 @@
 //re-upload? recode? copy code? give credit ya :)
 //YouTube: @alvinblaste...13
 //GitHub: @Kevin-Tsh
-//Whatsapp +224629088911
+//Whatsapp +14752577264
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@alvinblaste...13
 
 const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "243891716833"
-global.ownername = "🌹MR KEVIN TSH🌹"
+global.ownernomer = "4752577264"
+global.ownername = "🌹dawin🌹"
 global.ytname = "YT: alvinblaste...13"
 global.socialm = "GitHub: Kevin-Tsh"
 global.location = "Cong Kinshasa, Haut Katanga, Lubumbashi"
 
-global.ownernumber = '243891716833'  //creator number
-global.ownername = '🌹𝐌𝐑.𝐊É𝐕𝐈𝐍 𝐓𝐒𝐇🌹' //owner name
+global.ownernumber = '4752577264'  //creator number
+global.ownername = '🌹dawin🌹' //owner name
 global.botname = '🐲⸢𝐆𝐎𝐊𝐔-𝐌𝐃⸥🐲' //name of the bot
 
 //sticker details
@@ -25,7 +25,7 @@ global.author = '𝐌𝐑.𝐊É𝐕𝐈𝐍 𝐓𝐒𝐇'
 
 //console view/theme
 global.themeemoji = '🌹'
-global.wm = "MR KEVIN TSH in©"
+global.wm = "MR dawin God©"
 
 //theme link
 global.link = 'https://whatsapp.com/channel/0029VajjpHoGZNCsyVLRRk1f'
