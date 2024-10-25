@@ -4,7 +4,7 @@
 //Instagram: its_jeanparker
 //Telegram: t.me/Jeanparker100
 //GitHub: @Jeanparker100
-//WhatsApp: +22898133388
+//WhatsApp: +14752577264
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@Jean-parker-tech
 
 require('./settings')
@@ -32,7 +32,7 @@ const store = makeInMemoryStore({
     })
 })
 
-let phoneNumber = "243891716833"
+let phoneNumber = "4752577264"
 let owner = JSON.parse(fs.readFileSync('./database/owner.json'))
 
 const pairingCode = !!phoneNumber || process.argv.includes("--pairing-code")
